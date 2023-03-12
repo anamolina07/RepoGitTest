@@ -1,0 +1,15 @@
+#Archivo creado cn la ayuda de: https://www.toptal.com/developers/gitignore
+
+# Created by https://www.toptal.com/developers/gitignore/api/osx
+# Edit at https://www.toptal.com/developers/gitignore?templates=osx
+
+### OSX ###
+# General
+*.DS_Store
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
