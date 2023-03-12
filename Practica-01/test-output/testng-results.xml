@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-27T19:36:28 CST" name="Default suite" finished-at="2023-02-27T19:36:43 CST" duration-ms="14659">
+    <groups>
+    </groups>
+    <test started-at="2023-02-27T19:36:28 CST" name="Default test" finished-at="2023-02-27T19:36:43 CST" duration-ms="14659">
+      <class name="com.demo.Registrer">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demo.Registrer@3c7f66c4]" started-at="2023-02-27T19:36:29 CST" name="setUp" finished-at="2023-02-27T19:36:34 CST" duration-ms="5366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickRegister()[pri:0, instance:com.demo.Registrer@3c7f66c4]" started-at="2023-02-27T19:36:34 CST" name="clickRegister" finished-at="2023-02-27T19:36:37 CST" duration-ms="2593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRegister -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.demo.Registrer@3c7f66c4]" started-at="2023-02-27T19:36:37 CST" name="tearDown" finished-at="2023-02-27T19:36:37 CST" duration-ms="540" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickRegister status=SUCCESS method=Registrer.clickRegister()[pri:0, instance:com.demo.Registrer@3c7f66c4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demo.Registrer@3c7f66c4]" started-at="2023-02-27T19:36:37 CST" name="setUp" finished-at="2023-02-27T19:36:41 CST" duration-ms="3881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logIn()[pri:0, instance:com.demo.Registrer@3c7f66c4]" started-at="2023-02-27T19:36:41 CST" name="logIn" finished-at="2023-02-27T19:36:43 CST" duration-ms="1731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.demo.Registrer@3c7f66c4]" started-at="2023-02-27T19:36:43 CST" name="tearDown" finished-at="2023-02-27T19:36:43 CST" duration-ms="475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logIn status=SUCCESS method=Registrer.logIn()[pri:0, instance:com.demo.Registrer@3c7f66c4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.Registrer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
