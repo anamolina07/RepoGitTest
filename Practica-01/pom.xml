@@ -4,7 +4,7 @@
 	<artifactId>Practica-01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Practica-01</name>
-	<description>Practica individual para automatizar Registro y Login de la pag https://demo.nopcommerce.com/</description>
+	<description>Practica (de AMMC) individual para automatizar Registro y Login de la pag https://demo.nopcommerce.com/</description>
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
